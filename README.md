@@ -1,4 +1,4 @@
-# GenLayer Zero to Hero: My First Intelligent Contract
+# GenLayer Introductory Tutorial: Environment Setup, Wallet Creation & First Intelligent Contract Deployment
 
 **Builder Contribution – Official Introductory Tutorial**
 
